@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Timofey / in Innternrt - Bishterz
+- 👋 Hi, I’m Timofey / in Internet - Bishterz
 - 👀 I’m interested in coding on C++ and Phyton
 - 🌱 I’m currently learning in Plekhanov Russian University of Economics
 - 💞️ I’m looking to collaborate on yandex
